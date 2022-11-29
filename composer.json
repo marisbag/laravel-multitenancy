@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-multitenancy",
+    "name": "spatie/laravel-multitenancy-php-7-3",
     "description": "Make your Laravel app usable by multiple tenants",
     "keywords": [
         "spatie",
